@@ -1,0 +1,8 @@
+/target
+/.project
+/.settings
+/logs
+/.classpath
+/.idea*.iml
+/bin
+/.myeclipse
